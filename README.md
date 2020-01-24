@@ -1,0 +1,2 @@
+# PhotoApplicationZuulApiGateway
+Zuul gateway for all registered PhotoshopApplication microservices
